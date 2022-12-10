@@ -1,3 +1,5 @@
 rootProject.name = 'Exercises'
 include 'ReverseString'
+include 'NestedLoopsPattern'
+include 'ArrowKeyDetector'
 
