@@ -1,8 +1,11 @@
 package reverseString;
 
+import static reverseString.Reverse.reverse;
+
 public class ReverseString {
 
     public static void main(String[]args){
-        System.out.println();
+        String r = reverse("dog, kayak, Pawel");
+        System.out.println(r);
     }
 }
